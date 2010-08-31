@@ -1,0 +1,14 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    net-ldap (0.1.1)
+    rack (1.2.1)
+    sinatra (1.0)
+      rack (>= 1.0)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  net-ldap
+  sinatra

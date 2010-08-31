@@ -1,0 +1,6 @@
+:host: host
+:port: 45351
+:auth:
+  :method: :simple
+  :username: uid=mx???,ou=itaccounts,o=bayer
+  :password: secret
